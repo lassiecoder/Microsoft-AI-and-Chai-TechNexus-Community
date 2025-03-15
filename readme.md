@@ -66,17 +66,9 @@ API_VERSION=your-api-version
    node demo.js
    ```
 
-## Example Output
+## Output
 
-```
---- Azure OpenAI Demo ---
-
-Azure OpenAI Prompt: explain azure openai to 5 year old in 20 words
-
- Azure OpenAI Response: Azure OpenAI is magic computer brain that helps people make stories and answer questions super fast.
-
---- Demo Complete ---
-```
+![Alt Text](https://github.com/user-attachments/assets/ff756604-bba4-4dd3-822d-536fbfe43f22)
 
 ## Customization
 
