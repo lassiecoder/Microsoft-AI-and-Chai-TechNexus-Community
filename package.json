@@ -1,0 +1,23 @@
+{
+  "name": "azure-openai-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node --no-deprecation demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^4.0.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.28.0"
+  },
+  "main": "demo.js",
+  "devDependencies": {},
+  "description": ""
+}
